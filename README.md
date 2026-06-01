@@ -50,14 +50,16 @@ A complete Database Management System project for managing library operations us
    ## 📸 Screenshots
 
 ### 1. Database Tables Structure
-[Tables](WhatsApp Image 2026-06-01 at 22.41.21 (1).jpeg)
+![Tables](WhatsApp Image 2026-06-01 at 22.41.21 (1).jpeg)
 
 ### 2. Members Table
-[Members](WhatsApp Image 2026-06-01 at 22.41.21.jpeg)
+![Members](WhatsApp Image 2026-06-01 at 22.41.21.jpeg)
 
 ### 3. Books Table
-[Books](WhatsApp Image 2026-06-01 at 22.41.22 (1).jpeg)
+![Books](WhatsApp Image 2026-06-01 at 22.41.22 (1).jpeg)
 
+### 4. ER Diagram
+![ER Diagram](WhatsApp Image 2026-06-01 at 22.41.22.jpeg)
 ### 2. ER Diagram
 ![ER Diagram](photo2.jpeg)
 
