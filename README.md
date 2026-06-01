@@ -58,8 +58,8 @@ A complete Database Management System project for managing library operations us
 ### 3. Books Table
 ![Books](photo4.jpeg)
 
-### 4. ER Diagram
-![ER Diagram](WhatsApp Image 2026-06-01 at 22.41.22.jpeg)
+### 4. table
+![ER Diagram](photo5.jpeg)
 ### 2. ER Diagram
 ![ER Diagram](photo2.jpeg)
 
