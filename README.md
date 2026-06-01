@@ -46,3 +46,13 @@ A complete Database Management System project for managing library operations us
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Khushi1028/Library-Management-System-MySQL.git
+
+   ## 📸 Screenshots
+
+### 1. Database Tables Structure
+![Tables](WhatsApp Image 2026-06-01 at 22.41.21 (1).jpeg, WhatsApp Image 2026-06-01 at 22.41.21.jpeg, WhatsApp Image 2026-06-01 at 22.41.22 (1).jpeg, WhatsApp Image 2026-06-01 at 22.41.22.jpeg)
+
+### 2. ER Diagram
+![ER Diagram](photo2.jpeg)
+
+ 
