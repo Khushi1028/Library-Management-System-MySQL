@@ -59,6 +59,6 @@ A complete Database Management System project for managing library operations us
 [Books](WhatsApp Image 2026-06-01 at 22.41.22 (1).jpeg)
 
 ### 2. ER Diagram
-[ER Diagram](photo2.jpeg)
+![ER Diagram](photo2.jpeg)
 
  
