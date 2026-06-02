@@ -1,6 +1,4 @@
-# Library Management System using MySQL
-   # Library Management System using MySQL
-  
+# Library Management System using MySQL 
   [![Live Demo](https://img.shields.io/badge/Live_Demo-View_Website-green?style=for-the-badge&logo=github)](https://khushi1028.github.io/Library-Management-System-MySQL/)
   A complete Database Management System project...
 A complete Database Management System project for managing library operations using MySQL. This project demonstrates the use of **Stored Procedures**, **Triggers**, and **Views** to automate and simplify library tasks.
